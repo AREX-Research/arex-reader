@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 337" role="img" aria-labelledby="title desc">
+  <title id="title">AREX symbol</title>
+  <desc id="desc">The black AREX trademark symbol.</desc>
+  <g fill="#000000">
+    <path fill-rule="evenodd" d="
+      M194 18
+      L279 162
+      L217 254
+      L256.5 318
+      L217.5 318
+      L194 279
+      L170.5 318
+      L131.5 318
+      L171 254
+      L109 162
+      Z
+
+      M194 91
+      L236 162
+      L194 229
+      L152 162
+      Z
+    "/>
+    <path d="M104 174.5 L124.5 205.5 L59 318 L16.5 318 Z"/>
+    <path d="M284 174.5 L371.5 318 L329 318 L263.5 205.5 Z"/>
+  </g>
+</svg>
