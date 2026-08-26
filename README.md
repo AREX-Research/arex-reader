@@ -34,7 +34,7 @@ AREX Reader does not update automatically yet. Download the latest repository ZI
 
 AREX Reader needs access to webpages so it can display the floating entry, selection toolbar, and inline overviews. Simply browsing a regular webpage does not automatically upload its content. The extension sends only the page content needed to complete an action when you ask a question, request a translation, or generate an overview.
 
-For details, read our [Privacy Policy](https://arex-research.com/privacy) and [Terms of Service](https://arex-research.com/terms).
+For extension-specific details, read the [AREX Reader Privacy Notice](https://arex-research.com/privacy/reader) and [Terms of Service](https://arex-research.com/terms).
 
 ## Feedback
 

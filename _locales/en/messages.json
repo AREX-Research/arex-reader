@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "AREX Reader"
+  },
+  "extensionDescription": {
+    "message": "Understand webpages, videos, and research papers with source-grounded summaries, explanations, translations, and chat."
+  },
+  "actionTitle": {
+    "message": "Open AREX Reader"
+  }
+}

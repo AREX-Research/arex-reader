@@ -1,0 +1,1 @@
+import{c as e,f as t,l as n,t as r}from"./jsx-runtime-CA_l89em.js";import{t as i}from"./style-COW7cpNI.js";var a=t(n(),1),o=t(e(),1),s=r();o.createRoot(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{})}));

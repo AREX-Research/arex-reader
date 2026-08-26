@@ -34,7 +34,7 @@ AREX Reader 目前不会自动更新。重新下载最新仓库 ZIP（或使用 
 
 AREX Reader 需要网页访问权限，才能显示悬浮入口、划词工具栏和站内速览。仅仅浏览网页时，它不会自动上传普通网页正文；当你主动提问、翻译或生成速览时，扩展才会发送完成该请求所需的页面内容。
 
-详细说明请查看 [隐私政策](https://arex-research.com/privacy) 与 [服务条款](https://arex-research.com/terms)。
+扩展相关的详细说明请查看 [AREX Reader 隐私说明](https://arex-research.com/privacy/reader) 与 [服务条款](https://arex-research.com/terms)。
 
 ## 反馈
 

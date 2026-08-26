@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "AREX Reader"
+  },
+  "extensionDescription": {
+    "message": "通过有来源依据的速览、解释、翻译和对话，理解网页、视频与研究论文。"
+  },
+  "actionTitle": {
+    "message": "打开 AREX Reader"
+  }
+}
