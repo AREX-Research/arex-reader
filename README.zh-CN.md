@@ -6,10 +6,14 @@
 
 AREX Reader 是一款 Chrome 扩展，帮助你理解正在阅读的网页、视频和论文。它可以常驻网页，也可以在 Chrome 侧边栏中使用。
 
+当前版本：**0.4.0**。查看 [版本更新记录](CHANGELOG.md) 或 [下载版本安装包](https://github.com/AREX-Research/arex-reader/releases/tag/v0.4.0)。
+
 ## 你可以用它做什么
 
 - 在任意网页上提问、总结或继续追问
 - 选中文字后直接解释或翻译
+- 在 arXiv PDF 中选中文字，右键「问 AREX」，沿用浮窗或侧边栏偏好
+- 在设置中选择小、标准、大三档阅读字号
 - 查看 YouTube、Bilibili 视频速览，并从时间戳跳回原视频
 - 查看 arXiv 论文速览，继续询问方法、贡献和局限
 
@@ -17,7 +21,7 @@ AREX Reader 是一款 Chrome 扩展，帮助你理解正在阅读的网页、视
 
 需要 Chrome 116 或更高版本。
 
-1. 点击本仓库的 **Code → Download ZIP**，或者使用 Git 克隆本仓库。
+1. 从 [0.4.0 发布页](https://github.com/AREX-Research/arex-reader/releases/tag/v0.4.0) 下载 **arex-reader-extension-0.4.0-chrome.zip**。也可点击 **Code → Download ZIP** 或使用 Git 克隆本仓库。
 2. 如果下载的是 ZIP，请将它解压到一个固定目录，安装后不要移动或删除这个目录。
 3. 在 Chrome 地址栏打开 `chrome://extensions`。
 4. 打开右上角的「开发者模式」，点击「加载已解压的扩展程序」。
@@ -28,7 +32,9 @@ AREX Reader 是一款 Chrome 扩展，帮助你理解正在阅读的网页、视
 
 ## 更新
 
-AREX Reader 目前不会自动更新。重新下载最新仓库 ZIP（或使用 Git 拉取更新），覆盖原来的安装文件，再到 `chrome://extensions` 中点击 AREX Reader 的「重新加载」，最后刷新已经打开的网页。
+开发者模式安装的扩展不会自动更新。下载最新版本安装包（或使用 Git 拉取更新），覆盖原安装目录中的文件，再到 `chrome://extensions` 中点击 AREX Reader 的「重新加载」，最后刷新已打开的网页。保持安装目录不变，以保留扩展身份和偏好。
+
+发布页 ZIP 与准备提交 Chrome 商店的构建产物相同。GitHub 发版不代表商店版本已经上传或审核通过。
 
 ## 隐私与权限
 

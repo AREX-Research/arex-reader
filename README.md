@@ -6,10 +6,14 @@ Ask AREX directly on any webpage.
 
 AREX Reader is a Chrome extension that helps you understand the webpages, videos, and papers you are reading. Use it as a floating companion on the page or in Chrome's side panel.
 
+Current version: **0.4.0**. See the [release notes](CHANGELOG.md) and [download the versioned package](https://github.com/AREX-Research/arex-reader/releases/tag/v0.4.0).
+
 ## What you can do
 
 - Ask questions, summarize a page, and continue the conversation on any website
 - Explain or translate selected text without leaving the page
+- Right-click selected text in an arXiv PDF to ask AREX in your preferred floating window or side panel
+- Choose Small, Standard, or Large reading text in Settings
 - Get overviews of YouTube and Bilibili videos, then jump back to key moments
 - Get overviews of arXiv papers and ask about their methods, contributions, and limitations
 
@@ -17,7 +21,7 @@ AREX Reader is a Chrome extension that helps you understand the webpages, videos
 
 AREX Reader requires Chrome 116 or later.
 
-1. Click **Code → Download ZIP** on this repository, or clone the repository with Git.
+1. Download **arex-reader-extension-0.4.0-chrome.zip** from the [0.4.0 release](https://github.com/AREX-Research/arex-reader/releases/tag/v0.4.0). You can also use **Code → Download ZIP** or clone this repository.
 2. If you downloaded the ZIP, extract it to a permanent folder. Do not move or delete this folder after installation.
 3. Open `chrome://extensions` in Chrome.
 4. Turn on **Developer mode**, then click **Load unpacked**.
@@ -28,7 +32,9 @@ If AREX does not appear on the page, open the extension details, set **Site acce
 
 ## Update
 
-AREX Reader does not update automatically yet. Download the latest repository ZIP (or pull the latest Git changes), replace the existing installation files, click **Reload** on the AREX Reader card at `chrome://extensions`, and refresh any open webpages.
+Developer-mode installations do not update automatically. Download the latest release package (or pull the latest Git changes), replace the files in the same installation directory, click **Reload** on the AREX Reader card at `chrome://extensions`, and refresh open webpages. Keep the installation directory in place so Chrome retains the extension identity and preferences.
+
+The release ZIP is the same build prepared for Chrome Web Store submission. A GitHub release does not mean that the Store update has been uploaded or approved.
 
 ## Privacy and permissions
 

@@ -1,0 +1,1 @@
+function e(){let e=!1,t=-1/0;return{start(){e=!0,t=-1/0},end(n){e=!1,t=n.timeStamp},keyUp(e){e.key===`Enter`&&(t=-1/0)},ignore(n){return e||n.isComposing||n.keyCode===229?!0:n.key===`Enter`&&n.timeStamp>=t&&n.timeStamp-t<50&&(n.preventDefault(),!0)}}}export{e as t};

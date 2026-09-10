@@ -1,0 +1,1 @@
+import{b as e,u as t,v as n,y as r}from"./use-reading-font-Bw4HR6yZ.js";import"./reader-bridge-Ccp3wCDR.js";import{t as i}from"./style-Ch-CvQ9M.js";var a=e(r(),1),o=e(n(),1),s=t();o.createRoot(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{})}));

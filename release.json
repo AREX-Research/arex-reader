@@ -1,0 +1,10 @@
+{
+  "version": "0.4.0",
+  "sourceRepository": "AREX-Research/chrome_extension",
+  "sourceCommit": "e4538d9dffec8544c1462696e4c19df8871f8a88",
+  "artifact": "arex-reader-extension-0.4.0-chrome.zip",
+  "sha256": "b634946f90eca35531b801161252d813b1a5ecd5f34183916609c2f8a40635f6",
+  "buildCommand": "npm run zip",
+  "nodeVersion": "26.4.0",
+  "fileCount": 188
+}
